@@ -1,4 +1,4 @@
-# Electrical-ML
+# Deep feed forward based neural network prediction model
 
 Predicting the load loss and blackout of a 20 component electrical system using neuraql network.\
 The prediction has two parts:\
