@@ -1,4 +1,4 @@
-# Deep feed forward based neural network prediction model
+# Deep feed forward neural network based prediction model
 
 Predicting the system damage of an electrical power grid using neural network.\
 System damage estimation: Estimating the load loss of the system.
